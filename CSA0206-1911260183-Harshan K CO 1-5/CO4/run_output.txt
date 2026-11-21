@@ -1,0 +1,10 @@
+Patient Arun age 19 BP 120/80
+502 1.2 kg Chennai-600077 12/10/2026
+503 2.8 kg Coimbatore-641001 13/10/2026
+501 4.5 kg Madurai-625001 12/10/2026
+sizeof union=8 struct=12
+Temp 31.5 C
+Humidity 68 %
+Status OK
+Balances: 5200.00 12480.00 832.00
+Tokens: 1001 1002 1003

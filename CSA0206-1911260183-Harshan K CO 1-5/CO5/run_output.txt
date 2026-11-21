@@ -1,0 +1,11 @@
+2^30 linear=1073741824 calls=31
+2^30 fast=1073741824 calls=6
+Digital root of 9875 = 2
+Donor 7001 O+ size=1 capacity=2
+Donor 7002 A+ size=2 capacity=2
+Donor 7003 B- size=3 capacity=4
+Donor 7004 AB+ size=4 capacity=4
+Donor 7005 O- size=5 capacity=8
+Update record 3: done
+Update record 9: failed
+1:40 2:25 3:12 4:20 5:30 

@@ -1,0 +1,4 @@
+Enter previous and current meter readings (0..65535): Units consumed: 50
+Bill: Rs 50.00
+Rollover test 65400 -> 120: 256 units
+Tariff test 150 units: Rs 162.50

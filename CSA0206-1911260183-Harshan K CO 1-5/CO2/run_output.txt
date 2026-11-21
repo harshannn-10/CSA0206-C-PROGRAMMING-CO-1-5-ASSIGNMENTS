@@ -1,0 +1,15 @@
+Pharmacy example: Rs 446.25
+Register after LIGHT and AC: 5
+Register after toggle FAN and switch off LIGHT: 6; AC=1
+100:S 95:S 83:A 50:D 49:F -5:? 101:? 
+97 prime=1 divisions=8
+100 prime=0 divisions=1
+7919 prime=1 divisions=87
+1000003 prime=1 divisions=999
+Month 1: interest 200.00, paid 2000.00, balance 8200.00
+Month 2: interest 164.00, paid 2000.00, balance 6364.00
+Month 3: interest 127.28, paid 2000.00, balance 4491.28
+Month 4: interest 89.83, paid 2000.00, balance 2581.11
+Month 5: interest 51.62, paid 2000.00, balance 632.73
+Month 6: interest 12.65, paid 645.38, balance 0.00
+Months=6 Total interest=645.38
