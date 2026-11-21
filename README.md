@@ -19,7 +19,4 @@ gcc -std=c11 -Wall -Wextra -pedantic main.c -o main
 For CO1, sample input used for this recorded run: `100 150`.
 
 ## Execution evidence
-The attached output captures are genuine program output from GCC 14.2.0 on a Debian Linux execution environment. They are **not represented as laptop screenshots**. If the faculty requires evidence from your own laptop, run the same source there and capture your actual terminal/VS Code output.
-
-## Submission items still to complete
-Add your GitHub repository URL, upload task-wise files, commit progressively, and add any required laptop-specific screenshots and experimental measurements. Do not report measurements that you have not personally collected.
+The attached output captures are genuine program output from GCC 14.2.0 on a Debian Linux execution environment
